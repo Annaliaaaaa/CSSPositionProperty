@@ -8,3 +8,10 @@ div.relative {
     left: 50%;
     border: 3px solid lavenderblush;
 }
+
+div.fixed {
+    position: fixed;
+    top: 0;
+    right: 0;
+    border: 3px solid lavenderblush;
+}
